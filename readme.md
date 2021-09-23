@@ -6,3 +6,5 @@
 - SCSS
 - JavaScript
 - APIs
+
+#### API used is https://pokeapi.co/api/v2/pokemon/
